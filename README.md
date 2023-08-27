@@ -4,6 +4,8 @@
 
 ![image](https://github.com/sequel-tj/urlParser/assets/74481733/08913b7d-ec93-4e6a-a8c9-c51887544a16)
 
+-> In terminal write "npm i" to install node module.
+
 <br>
 -> run the index.js file using the command: **node index.js**
   
@@ -12,12 +14,16 @@
 <br>
 -> now, open browser and in address bar search: localhost:3000 => opens the homepage
 
-![image](https://github.com/sequel-tj/urlParser/assets/74481733/06740d7c-1247-445e-817d-bae9e1fd4ef5)
+![image](https://github.com/parzival29sundar/BackEnd/assets/82038840/c8ecd08d-8277-4560-9ebf-6579d234d9ed)
+
 <br>
+
 ![image](https://github.com/sequel-tj/urlParser/assets/74481733/355d5dfb-7757-41b9-83e3-030e847e4118)
 <br>
+
 ![image](https://github.com/sequel-tj/urlParser/assets/74481733/7ce5ce4f-27ff-42e8-ba11-f4856d1fa3e3)
 <br>
+
 ![image](https://github.com/sequel-tj/urlParser/assets/74481733/0b74429b-9318-4293-828d-791d629f6b60)
 
 <br>
